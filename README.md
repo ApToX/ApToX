@@ -16,9 +16,9 @@ Full-stack engineer with 6 years building mission-critical, real-time systems. I
 
 ## 🎓 Education
 
-- 🎓 **M.Sc. in Computer Science** — Holon Institute of Technology (HIT) · in progress
+- 🎓 **M.Sc. in Computer Science** — Holon Institute of Technology (HIT)
   - Advanced ML · Agentic AI Systems · Modern Cybersecurity · Generative AI
-- 🎓 **B.Sc. in Computer Science** — Ben-Gurion University · Atuda elite academic-military program
+- 🎓 **B.Sc. in Computer Science** — Ben-Gurion University
 
 ## 🏆 Highlights
 
